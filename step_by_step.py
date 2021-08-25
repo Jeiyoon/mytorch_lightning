@@ -95,7 +95,15 @@ class LitMNIST(pl.LightningModule):
         mnist_test = ...
         return DataLoader(mnist_test, batch_size=64)
 """
+# DataLoaders are already in the model, no need to specify on .fit().
+"""
+model = LitMNIST()
+trainer = Trainer()
+trainer.fit(model)
+"""
 
+# (3) DataModules (recommended)
+#
 
 
 
