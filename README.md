@@ -1,4 +1,3 @@
-#### This repository is for pytorch_lightning tutorials, based on the [awesome work](https://pytorch-lightning.readthedocs.io/en/latest/starter/introduction_guide.html)
+# pytorch_lightning_tutorial
 
-
-\- Jeiyoon \-
+- https://pytorch-lightning.readthedocs.io/en/latest/starter/introduction_guide.html
