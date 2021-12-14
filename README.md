@@ -1,4 +1,4 @@
-# pytorch_tutorial: [page](https://github.com/Jeiyoon/pytorch_tutorial)
+# pytorch_tutorial: [\[page\]](https://github.com/Jeiyoon/pytorch_tutorial)
 
 - https://pytorch.org/tutorials/beginner/basics/intro.html
 
